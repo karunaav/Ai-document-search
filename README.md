@@ -9,7 +9,6 @@ A powerful retrieval-augmented generation (RAG) chatbot that allows you to uploa
 - 💬 **Chat Interface**: Interactive chat to ask questions about your documents
 - ⚡ **Fast Processing**: Efficient text extraction and chunking
 - 🎨 **Modern UI**: Beautiful dark-themed interface built with React and Tailwind CSS
-- 🚀 **Production Ready**: Deployed on Railway (backend) and Vercel (frontend)
 
 ## Tech Stack
 
@@ -26,7 +25,6 @@ A powerful retrieval-augmented generation (RAG) chatbot that allows you to uploa
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
 - **HTTP Client**: Axios
-- **Deployment**: Vercel
 
 ## Project Structure
 
@@ -169,15 +167,7 @@ Response: {"answer": "Answer text", "source": "Document chunk info"}
 
 
 
-## Future Enhancements
 
-- [ ] Add OpenAI GPT integration for more intelligent answers
-- [ ] Support for multiple document uploads
-- [ ] Document management dashboard
-- [ ] User authentication
-- [ ] Answer source highlighting
-- [ ] Export chat history
-- [ ] Support for other file formats (DOCX, TXT, etc.)
 
 ## Troubleshooting
 
@@ -218,7 +208,3 @@ For issues or questions:
 
 Created with ❤️ for document intelligence
 
----
-
-**Last Updated**: November 2025
-**Version**: 1.0.0
